@@ -1,0 +1,11 @@
+val
+Uspeshnia-Gosho
+Uspeshnia-Pesho
+Uspeshnia-Kiro
+Gosho-Slavi
+Gosho-Losho
+Pesho-Misho
+Pesho-Rado
+Pesho-Sasho
+Kiro-Ivo
+Kiro-Miro
